@@ -1,1 +1,2 @@
-# document-for-face-app
+## Introduction
+The Face Recognition App for Employee Attendance is a sophisticated application designed to streamline and automate the attendance tracking process in organizations. By leveraging the power of face recognition technology, this app provides a secure, efficient, and accurate method for verifying employee identities and logging attendance data. It eliminates the need for traditional manual methods like swipe cards or signatures, offering a more convenient and reliable solution.
