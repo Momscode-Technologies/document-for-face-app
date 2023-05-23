@@ -1,6 +1,6 @@
 ## Introduction
 The Face Recognition App for Employee Attendance with Location is a comprehensive application designed to simplify and enhance the attendance tracking process in organizations. By combining face recognition technology with location tracking capabilities, this app provides a robust solution for verifying employee identities, logging attendance data, and capturing the location of attendance events. It offers a secure, accurate, and convenient method for monitoring employee attendance while incorporating geospatial information.
-### Key Features:
+### Key Features :
 1.Face Detection and Recognition: The app utilizes advanced face detection algorithms to identify and locate faces in real-time. It matches the detected faces with pre-registered employee profiles using a trained face recognition model, ensuring accurate identity verification.
 
 2.Employee Data Management: The app includes a comprehensive employee data management system. Administrators can create, update, and securely store employee records. Employee information, such as name, ID, department, and photo, is associated with their respective profiles.
@@ -13,7 +13,7 @@ The Face Recognition App for Employee Attendance with Location is a comprehensiv
 
 6.Integration with Frappe Framework: Built on the Frappe framework, the app offers a scalable and customizable interface. It seamlessly integrates with the Frappe ecosystem, allowing for easy integration with existing ERP systems and enhancing the user experience.
 
-### Benefits:
+### Benefits :
 
 1.Accurate Attendance Verification: Face recognition technology ensures accurate identification of employees, minimizing the risk of attendance fraud and improving data accuracy.
 
@@ -25,7 +25,7 @@ The Face Recognition App for Employee Attendance with Location is a comprehensiv
 
 5.Seamless Integration: The app can be seamlessly integrated into existing infrastructure and ERP systems, leveraging the capabilities of the Frappe framework for a smooth and efficient integration process.
 
-### As a result:
+### As a result :
 The Face Recognition App for Employee Attendance with Location leverages face recognition technology and location tracking capabilities to revolutionize the attendance tracking process. By combining accurate identification, real-time monitoring, geospatial information, and robust reporting, the app provides organizations with an efficient, secure, and comprehensive solution for managing employee attendance across different locations. It offers valuable insights, enhances data accuracy, and simplifies administrative tasks, ultimately promoting productivity and ensuring compliance with attendance-related regulations.
 
 ## User Documentation
