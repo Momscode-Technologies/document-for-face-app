@@ -46,4 +46,14 @@ Face Recognition App for Employee Attendance with Location will provide detailed
 
 ### Prerequisites
 
+1. Create the user first, attach the latest passport size image, and generate the API access key for the user
+
 https://youtu.be/BanPjynmAME
+
+2. To create an Employee 
+
+https://youtu.be/ibVf0KF8NMI
+
+3.To Create Office QR Code from office Doctype 
+
+https://youtu.be/nKo7RFEMI0k
