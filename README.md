@@ -68,3 +68,7 @@ Face Recognition App for Employee Attendance with Location will provide detailed
       
       https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/shift_assignment
       
+### Sample :
+
+![image](https://github.com/Momscode-Technologies/document-for-face-app/assets/12432802/dd751cd4-5f96-445d-8785-93f73ff48e23)
+
