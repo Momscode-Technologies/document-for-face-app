@@ -46,4 +46,4 @@ Face Recognition App for Employee Attendance with Location will provide detailed
 
 ### Prerequisites
 
-https://user-images.githubusercontent.com/12432802/230597596-72891675-600c-4c97-9ce1-8d76108b8089.mp4
+https://youtu.be/BanPjynmAME
