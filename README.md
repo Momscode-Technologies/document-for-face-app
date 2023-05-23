@@ -62,3 +62,9 @@ Face Recognition App for Employee Attendance with Location will provide detailed
 
       https://drive.google.com/drive/folders/1DGuPuptRVuklnHXgbrDc8z5_cQSYWspp?usp=share_link
       
+   6. In order to determine shifts in employee check-ins and process auto-attendance, you will also need the following documents:
+
+      https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/shift_type
+      
+      https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/shift_assignment
+      
