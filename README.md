@@ -54,11 +54,11 @@ Face Recognition App for Employee Attendance with Location will provide detailed
 
       https://youtu.be/ibVf0KF8NMI
 
-  3.To Create Office QR Code from office Doctype 
-
+  3. To Create Office QR Code from office Doctype
+ 
       https://youtu.be/nKo7RFEMI0k
-    
-  4. Download and log in to the Android mobile application (the app will be available shortly in the Google Play store)
+      
+  5. Download and log in to the Android mobile application (the app will be available shortly in the Google Play store)
 
       https://drive.google.com/drive/folders/1DGuPuptRVuklnHXgbrDc8z5_cQSYWspp?usp=share_link
       
