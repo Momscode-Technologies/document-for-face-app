@@ -84,5 +84,5 @@ Go to customize from
 3. Go To Form Settings
 4. Insert in  "Image Field": employee_attendance_image
 
-![image](https://github.com/Momscode-Technologies/document-for-face-app/assets/12432802/f6f8470c-b3c4-4bac-8f21-28baa4fb9d91)
+![image](https://github.com/Momscode-Technologies/document-for-face-app/assets/12432802/43cafdd6-0d1b-4d1a-b319-da4f8244125c)
 
