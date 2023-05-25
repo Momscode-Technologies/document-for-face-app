@@ -70,11 +70,6 @@ Face Recognition App for Employee Attendance with Location will provide detailed
       
       https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/shift_assignment
       
-### Sample :
-
-![image](https://github.com/Momscode-Technologies/document-for-face-app/assets/12432802/dd751cd4-5f96-445d-8785-93f73ff48e23)
-
-
 ### Additional Settings 
 
 Go to customize from
@@ -83,6 +78,9 @@ Go to customize from
 2. Select "Employee Checkin"
 3. Go To Form Settings
 4. Insert in  "Image Field": employee_attendance_image
+
+![image](https://github.com/Momscode-Technologies/document-for-face-app/assets/12432802/1f7f344b-f6ae-4d86-b615-e97d0621c0af)
+
 
 ![image](https://github.com/Momscode-Technologies/document-for-face-app/assets/12432802/43cafdd6-0d1b-4d1a-b319-da4f8244125c)
 
