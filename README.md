@@ -74,3 +74,13 @@ Face Recognition App for Employee Attendance with Location will provide detailed
 
 ![image](https://github.com/Momscode-Technologies/document-for-face-app/assets/12432802/dd751cd4-5f96-445d-8785-93f73ff48e23)
 
+
+### Additional Settings 
+
+Go to customize from
+
+1. Customize Form
+2. Select "Employee Checkin"
+3. Go To Form Settings
+4. Insert in  "Image Field": employee_attendance_image
+
